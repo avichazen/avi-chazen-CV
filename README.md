@@ -73,3 +73,10 @@ avichazen@gmail.com
 #### **Our Best Words (Tichtov Tadrich Tovil)**
 > _2020_ 
 
+# Languages
+**English**
+Native or bilingual proficiency 
+
+**Hebrew**
+Native or bilingual proficiency 
+
