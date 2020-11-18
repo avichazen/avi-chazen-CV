@@ -1,7 +1,7 @@
 # Avi Chazen
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D35AQHXBNF6Rk0m8g/profile-framedphoto-shrink_200_200/0?e=1601236800&v=beta&t=gUuYBJAHxO9qQpK0OYyMecGnhRIL4TLp6BVYHxyA42k" width="100" height="100"/>
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQH-wKChbz1YBw/profile-displaybackgroundimage-shrink_200_800/0?e=1606348800&v=beta&t=tkjkt2aFL5mbkMv3fAV476XPDyffBWc48CrGQMJpUtE" width="500" height="100"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4D35AQFkRpEbqUgI3w/profile-framedphoto-shrink_200_200/0?e=1605776400&v=beta&t=gbA8rP1nXbXlDMGhjzON_kb_4roi7q5xQTFyGOBWoxA" width="100" height="100"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFx3hGg3wTbiw/profile-displaybackgroundimage-shrink_200_800/0?e=1611187200&v=beta&t=ujz9WnbgsjcDtCNxEn5ZC-U4JungB91iPZiJxSAvzJY" width="500" height="100"/>
 
 
 ## Talented Technical Writer | Content Writer | Usability Testing | User Guides - QuickStarts - Online Help | Internal Documentation | Localization | Seeking new opportunity
