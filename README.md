@@ -7,7 +7,7 @@
 ## Talented Technical Writer | Content Writer | Usability Testing | User Guides - QuickStarts - Online Help | Internal Documentation | Localization | Seeking new opportunity
 
 # About
-Thanks for visiting! I am a service professional with broad experience in the travel industry, looking for my next challenge as a Technical Writer.
+I am a service professional with broad experience in the travel industry, looking for my next challenge as a Technical Writer.
 
 Don't you just hate a poorly written manual with bad English?? Ughh!
 When I want to know how to use my dishwasher, I don't want to feel like I'm marking a 4th grader's homework!
